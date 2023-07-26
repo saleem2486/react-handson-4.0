@@ -1,0 +1,45 @@
+.Navbar{
+    display: flex;
+    justify-content: space-around;
+    font-size: xx-large;
+    font-style: italic;
+   color: rgb(7, 72, 8);
+   font-weight: bold;
+   background: rgb(180,25,114);
+  
+}
+.navbarheadbutton{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    font-size: xx-large;
+    font-weight: bold;
+    padding: 50px;
+
+}
+button{
+    background-color: rgb(73, 96, 243);
+    font-size: x-large;
+    border-radius: 20px;
+}
+table{
+    border-radius: 20px;
+    background-color: white;
+    width: 98%;
+    font-size: large;
+    border-collapse: collapse;
+    text-align: left;
+   margin: 20px;
+   border-top: none;
+   border-bottom: none;
+}
+
+table, th, td {
+    border-left: none;
+    border-right: none;
+    padding: 10px;
+  }
+
+  body{
+    background: rgb(123, 30, 46);
+  }
